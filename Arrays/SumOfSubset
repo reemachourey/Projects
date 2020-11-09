@@ -21,6 +21,8 @@ class SumOfSubset {
 		    //Call the method to find sum of Subset
 		    sumOfSubset(arr,size,sum);
 		}
+
+    
 	}
 	
 	public static void sumOfSubset(int arr[], int size,int sum){
